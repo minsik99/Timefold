@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver>
+	<!-- Solution class (최적화할 대상 클래스) -->
+	<solutionClass>com.duty.api.domain.Schedule</solutionClass>
+
+	<!-- Entity class (최적화할 개별 엔티티 클래스) -->
+	<entityClass>com.duty.api.domain.ShiftAssignment</entityClass>
+
+	<scoreDirectorFactory>
+		<constraintProviderClass>
+			com.duty.api.constraint.ShiftSchedulingConstraintProvider
+		</constraintProviderClass>
+	</scoreDirectorFactory>
+
+	<termination>
+		<!-- 종료 조건 설정 (최대 실행 시간) -->
+		<secondsSpentLimit>60</secondsSpentLimit>
+	</termination>
+</solver>
