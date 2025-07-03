@@ -1,0 +1,5582 @@
+[
+    {
+        "schId": 1,
+        "shiftDate": "2025-07-01",
+        "nurseId": 1,
+        "shiftType": "D"
+    },
+    {
+        "schId": 2,
+        "shiftDate": "2025-07-02",
+        "nurseId": 1,
+        "shiftType": "N"
+    },
+    {
+        "schId": 3,
+        "shiftDate": "2025-07-03",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 4,
+        "shiftDate": "2025-07-04",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 5,
+        "shiftDate": "2025-07-05",
+        "nurseId": 1,
+        "shiftType": "D"
+    },
+    {
+        "schId": 6,
+        "shiftDate": "2025-07-06",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 7,
+        "shiftDate": "2025-07-07",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 8,
+        "shiftDate": "2025-07-08",
+        "nurseId": 1,
+        "shiftType": "N"
+    },
+    {
+        "schId": 9,
+        "shiftDate": "2025-07-09",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 10,
+        "shiftDate": "2025-07-10",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 11,
+        "shiftDate": "2025-07-11",
+        "nurseId": 1,
+        "shiftType": "D"
+    },
+    {
+        "schId": 12,
+        "shiftDate": "2025-07-12",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 13,
+        "shiftDate": "2025-07-13",
+        "nurseId": 1,
+        "shiftType": "N"
+    },
+    {
+        "schId": 14,
+        "shiftDate": "2025-07-14",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 15,
+        "shiftDate": "2025-07-15",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 16,
+        "shiftDate": "2025-07-16",
+        "nurseId": 1,
+        "shiftType": "D"
+    },
+    {
+        "schId": 17,
+        "shiftDate": "2025-07-17",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 18,
+        "shiftDate": "2025-07-18",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 19,
+        "shiftDate": "2025-07-19",
+        "nurseId": 1,
+        "shiftType": "N"
+    },
+    {
+        "schId": 20,
+        "shiftDate": "2025-07-20",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 21,
+        "shiftDate": "2025-07-21",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 22,
+        "shiftDate": "2025-07-22",
+        "nurseId": 1,
+        "shiftType": "D"
+    },
+    {
+        "schId": 23,
+        "shiftDate": "2025-07-23",
+        "nurseId": 1,
+        "shiftType": "N"
+    },
+    {
+        "schId": 24,
+        "shiftDate": "2025-07-24",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 25,
+        "shiftDate": "2025-07-25",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 26,
+        "shiftDate": "2025-07-26",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 27,
+        "shiftDate": "2025-07-27",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 28,
+        "shiftDate": "2025-07-28",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 29,
+        "shiftDate": "2025-07-29",
+        "nurseId": 1,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 30,
+        "shiftDate": "2025-07-30",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 31,
+        "shiftDate": "2025-07-31",
+        "nurseId": 1,
+        "shiftType": "E"
+    },
+    {
+        "schId": 32,
+        "shiftDate": "2025-07-01",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 33,
+        "shiftDate": "2025-07-02",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 34,
+        "shiftDate": "2025-07-03",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 35,
+        "shiftDate": "2025-07-04",
+        "nurseId": 2,
+        "shiftType": "N"
+    },
+    {
+        "schId": 36,
+        "shiftDate": "2025-07-05",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 37,
+        "shiftDate": "2025-07-06",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 38,
+        "shiftDate": "2025-07-07",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 39,
+        "shiftDate": "2025-07-08",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 40,
+        "shiftDate": "2025-07-09",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 41,
+        "shiftDate": "2025-07-10",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 42,
+        "shiftDate": "2025-07-11",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 43,
+        "shiftDate": "2025-07-12",
+        "nurseId": 2,
+        "shiftType": "N"
+    },
+    {
+        "schId": 44,
+        "shiftDate": "2025-07-13",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 45,
+        "shiftDate": "2025-07-14",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 46,
+        "shiftDate": "2025-07-15",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 47,
+        "shiftDate": "2025-07-16",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 48,
+        "shiftDate": "2025-07-17",
+        "nurseId": 2,
+        "shiftType": "N"
+    },
+    {
+        "schId": 49,
+        "shiftDate": "2025-07-18",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 50,
+        "shiftDate": "2025-07-19",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 51,
+        "shiftDate": "2025-07-20",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 52,
+        "shiftDate": "2025-07-21",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 53,
+        "shiftDate": "2025-07-22",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 54,
+        "shiftDate": "2025-07-23",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 55,
+        "shiftDate": "2025-07-24",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 56,
+        "shiftDate": "2025-07-25",
+        "nurseId": 2,
+        "shiftType": "D"
+    },
+    {
+        "schId": 57,
+        "shiftDate": "2025-07-26",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 58,
+        "shiftDate": "2025-07-27",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 59,
+        "shiftDate": "2025-07-28",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 60,
+        "shiftDate": "2025-07-29",
+        "nurseId": 2,
+        "shiftType": "E"
+    },
+    {
+        "schId": 61,
+        "shiftDate": "2025-07-30",
+        "nurseId": 2,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 62,
+        "shiftDate": "2025-07-31",
+        "nurseId": 2,
+        "shiftType": "N"
+    },
+    {
+        "schId": 63,
+        "shiftDate": "2025-07-01",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 64,
+        "shiftDate": "2025-07-02",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 65,
+        "shiftDate": "2025-07-03",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 66,
+        "shiftDate": "2025-07-04",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 67,
+        "shiftDate": "2025-07-05",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 68,
+        "shiftDate": "2025-07-06",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 69,
+        "shiftDate": "2025-07-07",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 70,
+        "shiftDate": "2025-07-08",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 71,
+        "shiftDate": "2025-07-09",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 72,
+        "shiftDate": "2025-07-10",
+        "nurseId": 3,
+        "shiftType": "N"
+    },
+    {
+        "schId": 73,
+        "shiftDate": "2025-07-11",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 74,
+        "shiftDate": "2025-07-12",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 75,
+        "shiftDate": "2025-07-13",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 76,
+        "shiftDate": "2025-07-14",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 77,
+        "shiftDate": "2025-07-15",
+        "nurseId": 3,
+        "shiftType": "N"
+    },
+    {
+        "schId": 78,
+        "shiftDate": "2025-07-16",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 79,
+        "shiftDate": "2025-07-17",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 80,
+        "shiftDate": "2025-07-18",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 81,
+        "shiftDate": "2025-07-19",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 82,
+        "shiftDate": "2025-07-20",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 83,
+        "shiftDate": "2025-07-21",
+        "nurseId": 3,
+        "shiftType": "N"
+    },
+    {
+        "schId": 84,
+        "shiftDate": "2025-07-22",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 85,
+        "shiftDate": "2025-07-23",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 86,
+        "shiftDate": "2025-07-24",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 87,
+        "shiftDate": "2025-07-25",
+        "nurseId": 3,
+        "shiftType": "D"
+    },
+    {
+        "schId": 88,
+        "shiftDate": "2025-07-26",
+        "nurseId": 3,
+        "shiftType": "N"
+    },
+    {
+        "schId": 89,
+        "shiftDate": "2025-07-27",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 90,
+        "shiftDate": "2025-07-28",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 91,
+        "shiftDate": "2025-07-29",
+        "nurseId": 3,
+        "shiftType": "E"
+    },
+    {
+        "schId": 92,
+        "shiftDate": "2025-07-30",
+        "nurseId": 3,
+        "shiftType": "N"
+    },
+    {
+        "schId": 93,
+        "shiftDate": "2025-07-31",
+        "nurseId": 3,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 94,
+        "shiftDate": "2025-07-01",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 95,
+        "shiftDate": "2025-07-02",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 96,
+        "shiftDate": "2025-07-03",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 97,
+        "shiftDate": "2025-07-04",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 98,
+        "shiftDate": "2025-07-05",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 99,
+        "shiftDate": "2025-07-06",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 100,
+        "shiftDate": "2025-07-07",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 101,
+        "shiftDate": "2025-07-08",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 102,
+        "shiftDate": "2025-07-09",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 103,
+        "shiftDate": "2025-07-10",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 104,
+        "shiftDate": "2025-07-11",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 105,
+        "shiftDate": "2025-07-12",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 106,
+        "shiftDate": "2025-07-13",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 107,
+        "shiftDate": "2025-07-14",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 108,
+        "shiftDate": "2025-07-15",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 109,
+        "shiftDate": "2025-07-16",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 110,
+        "shiftDate": "2025-07-17",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 111,
+        "shiftDate": "2025-07-18",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 112,
+        "shiftDate": "2025-07-19",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 113,
+        "shiftDate": "2025-07-20",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 114,
+        "shiftDate": "2025-07-21",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 115,
+        "shiftDate": "2025-07-22",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 116,
+        "shiftDate": "2025-07-23",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 117,
+        "shiftDate": "2025-07-24",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 118,
+        "shiftDate": "2025-07-25",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 119,
+        "shiftDate": "2025-07-26",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 120,
+        "shiftDate": "2025-07-27",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 121,
+        "shiftDate": "2025-07-28",
+        "nurseId": 4,
+        "shiftType": "D"
+    },
+    {
+        "schId": 122,
+        "shiftDate": "2025-07-29",
+        "nurseId": 4,
+        "shiftType": "E"
+    },
+    {
+        "schId": 123,
+        "shiftDate": "2025-07-30",
+        "nurseId": 4,
+        "shiftType": "N"
+    },
+    {
+        "schId": 124,
+        "shiftDate": "2025-07-31",
+        "nurseId": 4,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 125,
+        "shiftDate": "2025-07-01",
+        "nurseId": 5,
+        "shiftType": "N"
+    },
+    {
+        "schId": 126,
+        "shiftDate": "2025-07-02",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 127,
+        "shiftDate": "2025-07-03",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 128,
+        "shiftDate": "2025-07-04",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 129,
+        "shiftDate": "2025-07-05",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 130,
+        "shiftDate": "2025-07-06",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 131,
+        "shiftDate": "2025-07-07",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 132,
+        "shiftDate": "2025-07-08",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 133,
+        "shiftDate": "2025-07-09",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 134,
+        "shiftDate": "2025-07-10",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 135,
+        "shiftDate": "2025-07-11",
+        "nurseId": 5,
+        "shiftType": "N"
+    },
+    {
+        "schId": 136,
+        "shiftDate": "2025-07-12",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 137,
+        "shiftDate": "2025-07-13",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 138,
+        "shiftDate": "2025-07-14",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 139,
+        "shiftDate": "2025-07-15",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 140,
+        "shiftDate": "2025-07-16",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 141,
+        "shiftDate": "2025-07-17",
+        "nurseId": 5,
+        "shiftType": "N"
+    },
+    {
+        "schId": 142,
+        "shiftDate": "2025-07-18",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 143,
+        "shiftDate": "2025-07-19",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 144,
+        "shiftDate": "2025-07-20",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 145,
+        "shiftDate": "2025-07-21",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 146,
+        "shiftDate": "2025-07-22",
+        "nurseId": 5,
+        "shiftType": "N"
+    },
+    {
+        "schId": 147,
+        "shiftDate": "2025-07-23",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 148,
+        "shiftDate": "2025-07-24",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 149,
+        "shiftDate": "2025-07-25",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 150,
+        "shiftDate": "2025-07-26",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 151,
+        "shiftDate": "2025-07-27",
+        "nurseId": 5,
+        "shiftType": "E"
+    },
+    {
+        "schId": 152,
+        "shiftDate": "2025-07-28",
+        "nurseId": 5,
+        "shiftType": "N"
+    },
+    {
+        "schId": 153,
+        "shiftDate": "2025-07-29",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 154,
+        "shiftDate": "2025-07-30",
+        "nurseId": 5,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 155,
+        "shiftDate": "2025-07-31",
+        "nurseId": 5,
+        "shiftType": "D"
+    },
+    {
+        "schId": 156,
+        "shiftDate": "2025-07-01",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 157,
+        "shiftDate": "2025-07-02",
+        "nurseId": 6,
+        "shiftType": "N"
+    },
+    {
+        "schId": 158,
+        "shiftDate": "2025-07-03",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 159,
+        "shiftDate": "2025-07-04",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 160,
+        "shiftDate": "2025-07-05",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 161,
+        "shiftDate": "2025-07-06",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 162,
+        "shiftDate": "2025-07-07",
+        "nurseId": 6,
+        "shiftType": "N"
+    },
+    {
+        "schId": 163,
+        "shiftDate": "2025-07-08",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 164,
+        "shiftDate": "2025-07-09",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 165,
+        "shiftDate": "2025-07-10",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 166,
+        "shiftDate": "2025-07-11",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 167,
+        "shiftDate": "2025-07-12",
+        "nurseId": 6,
+        "shiftType": "N"
+    },
+    {
+        "schId": 168,
+        "shiftDate": "2025-07-13",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 169,
+        "shiftDate": "2025-07-14",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 170,
+        "shiftDate": "2025-07-15",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 171,
+        "shiftDate": "2025-07-16",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 172,
+        "shiftDate": "2025-07-17",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 173,
+        "shiftDate": "2025-07-18",
+        "nurseId": 6,
+        "shiftType": "N"
+    },
+    {
+        "schId": 174,
+        "shiftDate": "2025-07-19",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 175,
+        "shiftDate": "2025-07-20",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 176,
+        "shiftDate": "2025-07-21",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 177,
+        "shiftDate": "2025-07-22",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 178,
+        "shiftDate": "2025-07-23",
+        "nurseId": 6,
+        "shiftType": "D"
+    },
+    {
+        "schId": 179,
+        "shiftDate": "2025-07-24",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 180,
+        "shiftDate": "2025-07-25",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 181,
+        "shiftDate": "2025-07-26",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 182,
+        "shiftDate": "2025-07-27",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 183,
+        "shiftDate": "2025-07-28",
+        "nurseId": 6,
+        "shiftType": "N"
+    },
+    {
+        "schId": 184,
+        "shiftDate": "2025-07-29",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 185,
+        "shiftDate": "2025-07-30",
+        "nurseId": 6,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 186,
+        "shiftDate": "2025-07-31",
+        "nurseId": 6,
+        "shiftType": "E"
+    },
+    {
+        "schId": 187,
+        "shiftDate": "2025-07-01",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 188,
+        "shiftDate": "2025-07-02",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 189,
+        "shiftDate": "2025-07-03",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 190,
+        "shiftDate": "2025-07-04",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 191,
+        "shiftDate": "2025-07-05",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 192,
+        "shiftDate": "2025-07-06",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 193,
+        "shiftDate": "2025-07-07",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 194,
+        "shiftDate": "2025-07-08",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 195,
+        "shiftDate": "2025-07-09",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 196,
+        "shiftDate": "2025-07-10",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 197,
+        "shiftDate": "2025-07-11",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 198,
+        "shiftDate": "2025-07-12",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 199,
+        "shiftDate": "2025-07-13",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 200,
+        "shiftDate": "2025-07-14",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 201,
+        "shiftDate": "2025-07-15",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 202,
+        "shiftDate": "2025-07-16",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 203,
+        "shiftDate": "2025-07-17",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 204,
+        "shiftDate": "2025-07-18",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 205,
+        "shiftDate": "2025-07-19",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 206,
+        "shiftDate": "2025-07-20",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 207,
+        "shiftDate": "2025-07-21",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 208,
+        "shiftDate": "2025-07-22",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 209,
+        "shiftDate": "2025-07-23",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 210,
+        "shiftDate": "2025-07-24",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 211,
+        "shiftDate": "2025-07-25",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 212,
+        "shiftDate": "2025-07-26",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 213,
+        "shiftDate": "2025-07-27",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 214,
+        "shiftDate": "2025-07-28",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 215,
+        "shiftDate": "2025-07-29",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 216,
+        "shiftDate": "2025-07-30",
+        "nurseId": 7,
+        "shiftType": "N"
+    },
+    {
+        "schId": 217,
+        "shiftDate": "2025-07-31",
+        "nurseId": 7,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 218,
+        "shiftDate": "2025-07-01",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 219,
+        "shiftDate": "2025-07-02",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 220,
+        "shiftDate": "2025-07-03",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 221,
+        "shiftDate": "2025-07-04",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 222,
+        "shiftDate": "2025-07-05",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 223,
+        "shiftDate": "2025-07-06",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 224,
+        "shiftDate": "2025-07-07",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 225,
+        "shiftDate": "2025-07-08",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 226,
+        "shiftDate": "2025-07-09",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 227,
+        "shiftDate": "2025-07-10",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 228,
+        "shiftDate": "2025-07-11",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 229,
+        "shiftDate": "2025-07-12",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 230,
+        "shiftDate": "2025-07-13",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 231,
+        "shiftDate": "2025-07-14",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 232,
+        "shiftDate": "2025-07-15",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 233,
+        "shiftDate": "2025-07-16",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 234,
+        "shiftDate": "2025-07-17",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 235,
+        "shiftDate": "2025-07-18",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 236,
+        "shiftDate": "2025-07-19",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 237,
+        "shiftDate": "2025-07-20",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 238,
+        "shiftDate": "2025-07-21",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 239,
+        "shiftDate": "2025-07-22",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 240,
+        "shiftDate": "2025-07-23",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 241,
+        "shiftDate": "2025-07-24",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 242,
+        "shiftDate": "2025-07-25",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 243,
+        "shiftDate": "2025-07-26",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 244,
+        "shiftDate": "2025-07-27",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 245,
+        "shiftDate": "2025-07-28",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 246,
+        "shiftDate": "2025-07-29",
+        "nurseId": 8,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 247,
+        "shiftDate": "2025-07-30",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 248,
+        "shiftDate": "2025-07-31",
+        "nurseId": 8,
+        "shiftType": "N"
+    },
+    {
+        "schId": 249,
+        "shiftDate": "2025-07-01",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 250,
+        "shiftDate": "2025-07-02",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 251,
+        "shiftDate": "2025-07-03",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 252,
+        "shiftDate": "2025-07-04",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 253,
+        "shiftDate": "2025-07-05",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 254,
+        "shiftDate": "2025-07-06",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 255,
+        "shiftDate": "2025-07-07",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 256,
+        "shiftDate": "2025-07-08",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 257,
+        "shiftDate": "2025-07-09",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 258,
+        "shiftDate": "2025-07-10",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 259,
+        "shiftDate": "2025-07-11",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 260,
+        "shiftDate": "2025-07-12",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 261,
+        "shiftDate": "2025-07-13",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 262,
+        "shiftDate": "2025-07-14",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 263,
+        "shiftDate": "2025-07-15",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 264,
+        "shiftDate": "2025-07-16",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 265,
+        "shiftDate": "2025-07-17",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 266,
+        "shiftDate": "2025-07-18",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 267,
+        "shiftDate": "2025-07-19",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 268,
+        "shiftDate": "2025-07-20",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 269,
+        "shiftDate": "2025-07-21",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 270,
+        "shiftDate": "2025-07-22",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 271,
+        "shiftDate": "2025-07-23",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 272,
+        "shiftDate": "2025-07-24",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 273,
+        "shiftDate": "2025-07-25",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 274,
+        "shiftDate": "2025-07-26",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 275,
+        "shiftDate": "2025-07-27",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 276,
+        "shiftDate": "2025-07-28",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 277,
+        "shiftDate": "2025-07-29",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 278,
+        "shiftDate": "2025-07-30",
+        "nurseId": 9,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 279,
+        "shiftDate": "2025-07-31",
+        "nurseId": 9,
+        "shiftType": "N"
+    },
+    {
+        "schId": 280,
+        "shiftDate": "2025-07-01",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 281,
+        "shiftDate": "2025-07-02",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 282,
+        "shiftDate": "2025-07-03",
+        "nurseId": 10,
+        "shiftType": "N"
+    },
+    {
+        "schId": 283,
+        "shiftDate": "2025-07-04",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 284,
+        "shiftDate": "2025-07-05",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 285,
+        "shiftDate": "2025-07-06",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 286,
+        "shiftDate": "2025-07-07",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 287,
+        "shiftDate": "2025-07-08",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 288,
+        "shiftDate": "2025-07-09",
+        "nurseId": 10,
+        "shiftType": "N"
+    },
+    {
+        "schId": 289,
+        "shiftDate": "2025-07-10",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 290,
+        "shiftDate": "2025-07-11",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 291,
+        "shiftDate": "2025-07-12",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 292,
+        "shiftDate": "2025-07-13",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 293,
+        "shiftDate": "2025-07-14",
+        "nurseId": 10,
+        "shiftType": "N"
+    },
+    {
+        "schId": 294,
+        "shiftDate": "2025-07-15",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 295,
+        "shiftDate": "2025-07-16",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 296,
+        "shiftDate": "2025-07-17",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 297,
+        "shiftDate": "2025-07-18",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 298,
+        "shiftDate": "2025-07-19",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 299,
+        "shiftDate": "2025-07-20",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 300,
+        "shiftDate": "2025-07-21",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 301,
+        "shiftDate": "2025-07-22",
+        "nurseId": 10,
+        "shiftType": "N"
+    },
+    {
+        "schId": 302,
+        "shiftDate": "2025-07-23",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 303,
+        "shiftDate": "2025-07-24",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 304,
+        "shiftDate": "2025-07-25",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 305,
+        "shiftDate": "2025-07-26",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 306,
+        "shiftDate": "2025-07-27",
+        "nurseId": 10,
+        "shiftType": "D"
+    },
+    {
+        "schId": 307,
+        "shiftDate": "2025-07-28",
+        "nurseId": 10,
+        "shiftType": "N"
+    },
+    {
+        "schId": 308,
+        "shiftDate": "2025-07-29",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 309,
+        "shiftDate": "2025-07-30",
+        "nurseId": 10,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 310,
+        "shiftDate": "2025-07-31",
+        "nurseId": 10,
+        "shiftType": "E"
+    },
+    {
+        "schId": 311,
+        "shiftDate": "2025-07-01",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 312,
+        "shiftDate": "2025-07-02",
+        "nurseId": 11,
+        "shiftType": "D"
+    },
+    {
+        "schId": 313,
+        "shiftDate": "2025-07-03",
+        "nurseId": 11,
+        "shiftType": "N"
+    },
+    {
+        "schId": 314,
+        "shiftDate": "2025-07-04",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 315,
+        "shiftDate": "2025-07-05",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 316,
+        "shiftDate": "2025-07-06",
+        "nurseId": 11,
+        "shiftType": "D"
+    },
+    {
+        "schId": 317,
+        "shiftDate": "2025-07-07",
+        "nurseId": 11,
+        "shiftType": "D"
+    },
+    {
+        "schId": 318,
+        "shiftDate": "2025-07-08",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 319,
+        "shiftDate": "2025-07-09",
+        "nurseId": 11,
+        "shiftType": "D"
+    },
+    {
+        "schId": 320,
+        "shiftDate": "2025-07-10",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 321,
+        "shiftDate": "2025-07-11",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 322,
+        "shiftDate": "2025-07-12",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 323,
+        "shiftDate": "2025-07-13",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 324,
+        "shiftDate": "2025-07-14",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 325,
+        "shiftDate": "2025-07-15",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 326,
+        "shiftDate": "2025-07-16",
+        "nurseId": 11,
+        "shiftType": "N"
+    },
+    {
+        "schId": 327,
+        "shiftDate": "2025-07-17",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 328,
+        "shiftDate": "2025-07-18",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 329,
+        "shiftDate": "2025-07-19",
+        "nurseId": 11,
+        "shiftType": "N"
+    },
+    {
+        "schId": 330,
+        "shiftDate": "2025-07-20",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 331,
+        "shiftDate": "2025-07-21",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 332,
+        "shiftDate": "2025-07-22",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 333,
+        "shiftDate": "2025-07-23",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 334,
+        "shiftDate": "2025-07-24",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 335,
+        "shiftDate": "2025-07-25",
+        "nurseId": 11,
+        "shiftType": "N"
+    },
+    {
+        "schId": 336,
+        "shiftDate": "2025-07-26",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 337,
+        "shiftDate": "2025-07-27",
+        "nurseId": 11,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 338,
+        "shiftDate": "2025-07-28",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 339,
+        "shiftDate": "2025-07-29",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 340,
+        "shiftDate": "2025-07-30",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 341,
+        "shiftDate": "2025-07-31",
+        "nurseId": 11,
+        "shiftType": "E"
+    },
+    {
+        "schId": 342,
+        "shiftDate": "2025-07-01",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 343,
+        "shiftDate": "2025-07-02",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 344,
+        "shiftDate": "2025-07-03",
+        "nurseId": 12,
+        "shiftType": "N"
+    },
+    {
+        "schId": 345,
+        "shiftDate": "2025-07-04",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 346,
+        "shiftDate": "2025-07-05",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 347,
+        "shiftDate": "2025-07-06",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 348,
+        "shiftDate": "2025-07-07",
+        "nurseId": 12,
+        "shiftType": "N"
+    },
+    {
+        "schId": 349,
+        "shiftDate": "2025-07-08",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 350,
+        "shiftDate": "2025-07-09",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 351,
+        "shiftDate": "2025-07-10",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 352,
+        "shiftDate": "2025-07-11",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 353,
+        "shiftDate": "2025-07-12",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 354,
+        "shiftDate": "2025-07-13",
+        "nurseId": 12,
+        "shiftType": "N"
+    },
+    {
+        "schId": 355,
+        "shiftDate": "2025-07-14",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 356,
+        "shiftDate": "2025-07-15",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 357,
+        "shiftDate": "2025-07-16",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 358,
+        "shiftDate": "2025-07-17",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 359,
+        "shiftDate": "2025-07-18",
+        "nurseId": 12,
+        "shiftType": "N"
+    },
+    {
+        "schId": 360,
+        "shiftDate": "2025-07-19",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 361,
+        "shiftDate": "2025-07-20",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 362,
+        "shiftDate": "2025-07-21",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 363,
+        "shiftDate": "2025-07-22",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 364,
+        "shiftDate": "2025-07-23",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 365,
+        "shiftDate": "2025-07-24",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 366,
+        "shiftDate": "2025-07-25",
+        "nurseId": 12,
+        "shiftType": "E"
+    },
+    {
+        "schId": 367,
+        "shiftDate": "2025-07-26",
+        "nurseId": 12,
+        "shiftType": "N"
+    },
+    {
+        "schId": 368,
+        "shiftDate": "2025-07-27",
+        "nurseId": 12,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 369,
+        "shiftDate": "2025-07-28",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 370,
+        "shiftDate": "2025-07-29",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 371,
+        "shiftDate": "2025-07-30",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 372,
+        "shiftDate": "2025-07-31",
+        "nurseId": 12,
+        "shiftType": "D"
+    },
+    {
+        "schId": 373,
+        "shiftDate": "2025-07-01",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 374,
+        "shiftDate": "2025-07-02",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 375,
+        "shiftDate": "2025-07-03",
+        "nurseId": 13,
+        "shiftType": "N"
+    },
+    {
+        "schId": 376,
+        "shiftDate": "2025-07-04",
+        "nurseId": 13,
+        "shiftType": "N"
+    },
+    {
+        "schId": 377,
+        "shiftDate": "2025-07-05",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 378,
+        "shiftDate": "2025-07-06",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 379,
+        "shiftDate": "2025-07-07",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 380,
+        "shiftDate": "2025-07-08",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 381,
+        "shiftDate": "2025-07-09",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 382,
+        "shiftDate": "2025-07-10",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 383,
+        "shiftDate": "2025-07-11",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 384,
+        "shiftDate": "2025-07-12",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 385,
+        "shiftDate": "2025-07-13",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 386,
+        "shiftDate": "2025-07-14",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 387,
+        "shiftDate": "2025-07-15",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 388,
+        "shiftDate": "2025-07-16",
+        "nurseId": 13,
+        "shiftType": "N"
+    },
+    {
+        "schId": 389,
+        "shiftDate": "2025-07-17",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 390,
+        "shiftDate": "2025-07-18",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 391,
+        "shiftDate": "2025-07-19",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 392,
+        "shiftDate": "2025-07-20",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 393,
+        "shiftDate": "2025-07-21",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 394,
+        "shiftDate": "2025-07-22",
+        "nurseId": 13,
+        "shiftType": "N"
+    },
+    {
+        "schId": 395,
+        "shiftDate": "2025-07-23",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 396,
+        "shiftDate": "2025-07-24",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 397,
+        "shiftDate": "2025-07-25",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 398,
+        "shiftDate": "2025-07-26",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 399,
+        "shiftDate": "2025-07-27",
+        "nurseId": 13,
+        "shiftType": "D"
+    },
+    {
+        "schId": 400,
+        "shiftDate": "2025-07-28",
+        "nurseId": 13,
+        "shiftType": "E"
+    },
+    {
+        "schId": 401,
+        "shiftDate": "2025-07-29",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 402,
+        "shiftDate": "2025-07-30",
+        "nurseId": 13,
+        "shiftType": "N"
+    },
+    {
+        "schId": 403,
+        "shiftDate": "2025-07-31",
+        "nurseId": 13,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 404,
+        "shiftDate": "2025-07-01",
+        "nurseId": 14,
+        "shiftType": "N"
+    },
+    {
+        "schId": 405,
+        "shiftDate": "2025-07-02",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 406,
+        "shiftDate": "2025-07-03",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 407,
+        "shiftDate": "2025-07-04",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 408,
+        "shiftDate": "2025-07-05",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 409,
+        "shiftDate": "2025-07-06",
+        "nurseId": 14,
+        "shiftType": "N"
+    },
+    {
+        "schId": 410,
+        "shiftDate": "2025-07-07",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 411,
+        "shiftDate": "2025-07-08",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 412,
+        "shiftDate": "2025-07-09",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 413,
+        "shiftDate": "2025-07-10",
+        "nurseId": 14,
+        "shiftType": "E"
+    },
+    {
+        "schId": 414,
+        "shiftDate": "2025-07-11",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 415,
+        "shiftDate": "2025-07-12",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 416,
+        "shiftDate": "2025-07-13",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 417,
+        "shiftDate": "2025-07-14",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 418,
+        "shiftDate": "2025-07-15",
+        "nurseId": 14,
+        "shiftType": "N"
+    },
+    {
+        "schId": 419,
+        "shiftDate": "2025-07-16",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 420,
+        "shiftDate": "2025-07-17",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 421,
+        "shiftDate": "2025-07-18",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 422,
+        "shiftDate": "2025-07-19",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 423,
+        "shiftDate": "2025-07-20",
+        "nurseId": 14,
+        "shiftType": "E"
+    },
+    {
+        "schId": 424,
+        "shiftDate": "2025-07-21",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 425,
+        "shiftDate": "2025-07-22",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 426,
+        "shiftDate": "2025-07-23",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 427,
+        "shiftDate": "2025-07-24",
+        "nurseId": 14,
+        "shiftType": "N"
+    },
+    {
+        "schId": 428,
+        "shiftDate": "2025-07-25",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 429,
+        "shiftDate": "2025-07-26",
+        "nurseId": 14,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 430,
+        "shiftDate": "2025-07-27",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 431,
+        "shiftDate": "2025-07-28",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 432,
+        "shiftDate": "2025-07-29",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 433,
+        "shiftDate": "2025-07-30",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 434,
+        "shiftDate": "2025-07-31",
+        "nurseId": 14,
+        "shiftType": "D"
+    },
+    {
+        "schId": 435,
+        "shiftDate": "2025-07-01",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 436,
+        "shiftDate": "2025-07-02",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 437,
+        "shiftDate": "2025-07-03",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 438,
+        "shiftDate": "2025-07-04",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 439,
+        "shiftDate": "2025-07-05",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 440,
+        "shiftDate": "2025-07-06",
+        "nurseId": 15,
+        "shiftType": "N"
+    },
+    {
+        "schId": 441,
+        "shiftDate": "2025-07-07",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 442,
+        "shiftDate": "2025-07-08",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 443,
+        "shiftDate": "2025-07-09",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 444,
+        "shiftDate": "2025-07-10",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 445,
+        "shiftDate": "2025-07-11",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 446,
+        "shiftDate": "2025-07-12",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 447,
+        "shiftDate": "2025-07-13",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 448,
+        "shiftDate": "2025-07-14",
+        "nurseId": 15,
+        "shiftType": "N"
+    },
+    {
+        "schId": 449,
+        "shiftDate": "2025-07-15",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 450,
+        "shiftDate": "2025-07-16",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 451,
+        "shiftDate": "2025-07-17",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 452,
+        "shiftDate": "2025-07-18",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 453,
+        "shiftDate": "2025-07-19",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 454,
+        "shiftDate": "2025-07-20",
+        "nurseId": 15,
+        "shiftType": "N"
+    },
+    {
+        "schId": 455,
+        "shiftDate": "2025-07-21",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 456,
+        "shiftDate": "2025-07-22",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 457,
+        "shiftDate": "2025-07-23",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 458,
+        "shiftDate": "2025-07-24",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 459,
+        "shiftDate": "2025-07-25",
+        "nurseId": 15,
+        "shiftType": "E"
+    },
+    {
+        "schId": 460,
+        "shiftDate": "2025-07-26",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 461,
+        "shiftDate": "2025-07-27",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 462,
+        "shiftDate": "2025-07-28",
+        "nurseId": 15,
+        "shiftType": "D"
+    },
+    {
+        "schId": 463,
+        "shiftDate": "2025-07-29",
+        "nurseId": 15,
+        "shiftType": "N"
+    },
+    {
+        "schId": 464,
+        "shiftDate": "2025-07-30",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 465,
+        "shiftDate": "2025-07-31",
+        "nurseId": 15,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 466,
+        "shiftDate": "2025-07-01",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 467,
+        "shiftDate": "2025-07-02",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 468,
+        "shiftDate": "2025-07-03",
+        "nurseId": 16,
+        "shiftType": "E"
+    },
+    {
+        "schId": 469,
+        "shiftDate": "2025-07-04",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 470,
+        "shiftDate": "2025-07-05",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 471,
+        "shiftDate": "2025-07-06",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 472,
+        "shiftDate": "2025-07-07",
+        "nurseId": 16,
+        "shiftType": "N"
+    },
+    {
+        "schId": 473,
+        "shiftDate": "2025-07-08",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 474,
+        "shiftDate": "2025-07-09",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 475,
+        "shiftDate": "2025-07-10",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 476,
+        "shiftDate": "2025-07-11",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 477,
+        "shiftDate": "2025-07-12",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 478,
+        "shiftDate": "2025-07-13",
+        "nurseId": 16,
+        "shiftType": "E"
+    },
+    {
+        "schId": 479,
+        "shiftDate": "2025-07-14",
+        "nurseId": 16,
+        "shiftType": "N"
+    },
+    {
+        "schId": 480,
+        "shiftDate": "2025-07-15",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 481,
+        "shiftDate": "2025-07-16",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 482,
+        "shiftDate": "2025-07-17",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 483,
+        "shiftDate": "2025-07-18",
+        "nurseId": 16,
+        "shiftType": "E"
+    },
+    {
+        "schId": 484,
+        "shiftDate": "2025-07-19",
+        "nurseId": 16,
+        "shiftType": "N"
+    },
+    {
+        "schId": 485,
+        "shiftDate": "2025-07-20",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 486,
+        "shiftDate": "2025-07-21",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 487,
+        "shiftDate": "2025-07-22",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 488,
+        "shiftDate": "2025-07-23",
+        "nurseId": 16,
+        "shiftType": "E"
+    },
+    {
+        "schId": 489,
+        "shiftDate": "2025-07-24",
+        "nurseId": 16,
+        "shiftType": "N"
+    },
+    {
+        "schId": 490,
+        "shiftDate": "2025-07-25",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 491,
+        "shiftDate": "2025-07-26",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 492,
+        "shiftDate": "2025-07-27",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 493,
+        "shiftDate": "2025-07-28",
+        "nurseId": 16,
+        "shiftType": "D"
+    },
+    {
+        "schId": 494,
+        "shiftDate": "2025-07-29",
+        "nurseId": 16,
+        "shiftType": "N"
+    },
+    {
+        "schId": 495,
+        "shiftDate": "2025-07-30",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 496,
+        "shiftDate": "2025-07-31",
+        "nurseId": 16,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 497,
+        "shiftDate": "2025-07-01",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 498,
+        "shiftDate": "2025-07-02",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 499,
+        "shiftDate": "2025-07-03",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 500,
+        "shiftDate": "2025-07-04",
+        "nurseId": 17,
+        "shiftType": "D"
+    },
+    {
+        "schId": 501,
+        "shiftDate": "2025-07-05",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 502,
+        "shiftDate": "2025-07-06",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 503,
+        "shiftDate": "2025-07-07",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 504,
+        "shiftDate": "2025-07-08",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 505,
+        "shiftDate": "2025-07-09",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 506,
+        "shiftDate": "2025-07-10",
+        "nurseId": 17,
+        "shiftType": "D"
+    },
+    {
+        "schId": 507,
+        "shiftDate": "2025-07-11",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 508,
+        "shiftDate": "2025-07-12",
+        "nurseId": 17,
+        "shiftType": "N"
+    },
+    {
+        "schId": 509,
+        "shiftDate": "2025-07-13",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 510,
+        "shiftDate": "2025-07-14",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 511,
+        "shiftDate": "2025-07-15",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 512,
+        "shiftDate": "2025-07-16",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 513,
+        "shiftDate": "2025-07-17",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 514,
+        "shiftDate": "2025-07-18",
+        "nurseId": 17,
+        "shiftType": "D"
+    },
+    {
+        "schId": 515,
+        "shiftDate": "2025-07-19",
+        "nurseId": 17,
+        "shiftType": "D"
+    },
+    {
+        "schId": 516,
+        "shiftDate": "2025-07-20",
+        "nurseId": 17,
+        "shiftType": "N"
+    },
+    {
+        "schId": 517,
+        "shiftDate": "2025-07-21",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 518,
+        "shiftDate": "2025-07-22",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 519,
+        "shiftDate": "2025-07-23",
+        "nurseId": 17,
+        "shiftType": "N"
+    },
+    {
+        "schId": 520,
+        "shiftDate": "2025-07-24",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 521,
+        "shiftDate": "2025-07-25",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 522,
+        "shiftDate": "2025-07-26",
+        "nurseId": 17,
+        "shiftType": "D"
+    },
+    {
+        "schId": 523,
+        "shiftDate": "2025-07-27",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 524,
+        "shiftDate": "2025-07-28",
+        "nurseId": 17,
+        "shiftType": "E"
+    },
+    {
+        "schId": 525,
+        "shiftDate": "2025-07-29",
+        "nurseId": 17,
+        "shiftType": "N"
+    },
+    {
+        "schId": 526,
+        "shiftDate": "2025-07-30",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 527,
+        "shiftDate": "2025-07-31",
+        "nurseId": 17,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 528,
+        "shiftDate": "2025-07-01",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 529,
+        "shiftDate": "2025-07-02",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 530,
+        "shiftDate": "2025-07-03",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 531,
+        "shiftDate": "2025-07-04",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 532,
+        "shiftDate": "2025-07-05",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 533,
+        "shiftDate": "2025-07-06",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 534,
+        "shiftDate": "2025-07-07",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 535,
+        "shiftDate": "2025-07-08",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 536,
+        "shiftDate": "2025-07-09",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 537,
+        "shiftDate": "2025-07-10",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 538,
+        "shiftDate": "2025-07-11",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 539,
+        "shiftDate": "2025-07-12",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 540,
+        "shiftDate": "2025-07-13",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 541,
+        "shiftDate": "2025-07-14",
+        "nurseId": 18,
+        "shiftType": "D"
+    },
+    {
+        "schId": 542,
+        "shiftDate": "2025-07-15",
+        "nurseId": 18,
+        "shiftType": "D"
+    },
+    {
+        "schId": 543,
+        "shiftDate": "2025-07-16",
+        "nurseId": 18,
+        "shiftType": "D"
+    },
+    {
+        "schId": 544,
+        "shiftDate": "2025-07-17",
+        "nurseId": 18,
+        "shiftType": "D"
+    },
+    {
+        "schId": 545,
+        "shiftDate": "2025-07-18",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 546,
+        "shiftDate": "2025-07-19",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 547,
+        "shiftDate": "2025-07-20",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 548,
+        "shiftDate": "2025-07-21",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 549,
+        "shiftDate": "2025-07-22",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 550,
+        "shiftDate": "2025-07-23",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 551,
+        "shiftDate": "2025-07-24",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 552,
+        "shiftDate": "2025-07-25",
+        "nurseId": 18,
+        "shiftType": "D"
+    },
+    {
+        "schId": 553,
+        "shiftDate": "2025-07-26",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 554,
+        "shiftDate": "2025-07-27",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 555,
+        "shiftDate": "2025-07-28",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 556,
+        "shiftDate": "2025-07-29",
+        "nurseId": 18,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 557,
+        "shiftDate": "2025-07-30",
+        "nurseId": 18,
+        "shiftType": "E"
+    },
+    {
+        "schId": 558,
+        "shiftDate": "2025-07-31",
+        "nurseId": 18,
+        "shiftType": "N"
+    },
+    {
+        "schId": 559,
+        "shiftDate": "2025-07-01",
+        "nurseId": 19,
+        "shiftType": "N"
+    },
+    {
+        "schId": 560,
+        "shiftDate": "2025-07-02",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 561,
+        "shiftDate": "2025-07-03",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 562,
+        "shiftDate": "2025-07-04",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 563,
+        "shiftDate": "2025-07-05",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 564,
+        "shiftDate": "2025-07-06",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 565,
+        "shiftDate": "2025-07-07",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 566,
+        "shiftDate": "2025-07-08",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 567,
+        "shiftDate": "2025-07-09",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 568,
+        "shiftDate": "2025-07-10",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 569,
+        "shiftDate": "2025-07-11",
+        "nurseId": 19,
+        "shiftType": "N"
+    },
+    {
+        "schId": 570,
+        "shiftDate": "2025-07-12",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 571,
+        "shiftDate": "2025-07-13",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 572,
+        "shiftDate": "2025-07-14",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 573,
+        "shiftDate": "2025-07-15",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 574,
+        "shiftDate": "2025-07-16",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 575,
+        "shiftDate": "2025-07-17",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 576,
+        "shiftDate": "2025-07-18",
+        "nurseId": 19,
+        "shiftType": "N"
+    },
+    {
+        "schId": 577,
+        "shiftDate": "2025-07-19",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 578,
+        "shiftDate": "2025-07-20",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 579,
+        "shiftDate": "2025-07-21",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 580,
+        "shiftDate": "2025-07-22",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 581,
+        "shiftDate": "2025-07-23",
+        "nurseId": 19,
+        "shiftType": "N"
+    },
+    {
+        "schId": 582,
+        "shiftDate": "2025-07-24",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 583,
+        "shiftDate": "2025-07-25",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 584,
+        "shiftDate": "2025-07-26",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 585,
+        "shiftDate": "2025-07-27",
+        "nurseId": 19,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 586,
+        "shiftDate": "2025-07-28",
+        "nurseId": 19,
+        "shiftType": "E"
+    },
+    {
+        "schId": 587,
+        "shiftDate": "2025-07-29",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 588,
+        "shiftDate": "2025-07-30",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 589,
+        "shiftDate": "2025-07-31",
+        "nurseId": 19,
+        "shiftType": "D"
+    },
+    {
+        "schId": 590,
+        "shiftDate": "2025-07-01",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 591,
+        "shiftDate": "2025-07-02",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 592,
+        "shiftDate": "2025-07-03",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 593,
+        "shiftDate": "2025-07-04",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 594,
+        "shiftDate": "2025-07-05",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 595,
+        "shiftDate": "2025-07-06",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 596,
+        "shiftDate": "2025-07-07",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 597,
+        "shiftDate": "2025-07-08",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 598,
+        "shiftDate": "2025-07-09",
+        "nurseId": 20,
+        "shiftType": "N"
+    },
+    {
+        "schId": 599,
+        "shiftDate": "2025-07-10",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 600,
+        "shiftDate": "2025-07-11",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 601,
+        "shiftDate": "2025-07-12",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 602,
+        "shiftDate": "2025-07-13",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 603,
+        "shiftDate": "2025-07-14",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 604,
+        "shiftDate": "2025-07-15",
+        "nurseId": 20,
+        "shiftType": "N"
+    },
+    {
+        "schId": 605,
+        "shiftDate": "2025-07-16",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 606,
+        "shiftDate": "2025-07-17",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 607,
+        "shiftDate": "2025-07-18",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 608,
+        "shiftDate": "2025-07-19",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 609,
+        "shiftDate": "2025-07-20",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 610,
+        "shiftDate": "2025-07-21",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 611,
+        "shiftDate": "2025-07-22",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 612,
+        "shiftDate": "2025-07-23",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 613,
+        "shiftDate": "2025-07-24",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 614,
+        "shiftDate": "2025-07-25",
+        "nurseId": 20,
+        "shiftType": "N"
+    },
+    {
+        "schId": 615,
+        "shiftDate": "2025-07-26",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 616,
+        "shiftDate": "2025-07-27",
+        "nurseId": 20,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 617,
+        "shiftDate": "2025-07-28",
+        "nurseId": 20,
+        "shiftType": "D"
+    },
+    {
+        "schId": 618,
+        "shiftDate": "2025-07-29",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 619,
+        "shiftDate": "2025-07-30",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 620,
+        "shiftDate": "2025-07-31",
+        "nurseId": 20,
+        "shiftType": "E"
+    },
+    {
+        "schId": 621,
+        "shiftDate": "2025-07-01",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 622,
+        "shiftDate": "2025-07-02",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 623,
+        "shiftDate": "2025-07-03",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 624,
+        "shiftDate": "2025-07-04",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 625,
+        "shiftDate": "2025-07-05",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 626,
+        "shiftDate": "2025-07-06",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 627,
+        "shiftDate": "2025-07-07",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 628,
+        "shiftDate": "2025-07-08",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 629,
+        "shiftDate": "2025-07-09",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 630,
+        "shiftDate": "2025-07-10",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 631,
+        "shiftDate": "2025-07-11",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 632,
+        "shiftDate": "2025-07-12",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 633,
+        "shiftDate": "2025-07-13",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 634,
+        "shiftDate": "2025-07-14",
+        "nurseId": 21,
+        "shiftType": "N"
+    },
+    {
+        "schId": 635,
+        "shiftDate": "2025-07-15",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 636,
+        "shiftDate": "2025-07-16",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 637,
+        "shiftDate": "2025-07-17",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 638,
+        "shiftDate": "2025-07-18",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 639,
+        "shiftDate": "2025-07-19",
+        "nurseId": 21,
+        "shiftType": "N"
+    },
+    {
+        "schId": 640,
+        "shiftDate": "2025-07-20",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 641,
+        "shiftDate": "2025-07-21",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 642,
+        "shiftDate": "2025-07-22",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 643,
+        "shiftDate": "2025-07-23",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 644,
+        "shiftDate": "2025-07-24",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 645,
+        "shiftDate": "2025-07-25",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 646,
+        "shiftDate": "2025-07-26",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 647,
+        "shiftDate": "2025-07-27",
+        "nurseId": 21,
+        "shiftType": "E"
+    },
+    {
+        "schId": 648,
+        "shiftDate": "2025-07-28",
+        "nurseId": 21,
+        "shiftType": "N"
+    },
+    {
+        "schId": 649,
+        "shiftDate": "2025-07-29",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 650,
+        "shiftDate": "2025-07-30",
+        "nurseId": 21,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 651,
+        "shiftDate": "2025-07-31",
+        "nurseId": 21,
+        "shiftType": "D"
+    },
+    {
+        "schId": 652,
+        "shiftDate": "2025-07-01",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 653,
+        "shiftDate": "2025-07-02",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 654,
+        "shiftDate": "2025-07-03",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 655,
+        "shiftDate": "2025-07-04",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 656,
+        "shiftDate": "2025-07-05",
+        "nurseId": 22,
+        "shiftType": "N"
+    },
+    {
+        "schId": 657,
+        "shiftDate": "2025-07-06",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 658,
+        "shiftDate": "2025-07-07",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 659,
+        "shiftDate": "2025-07-08",
+        "nurseId": 22,
+        "shiftType": "N"
+    },
+    {
+        "schId": 660,
+        "shiftDate": "2025-07-09",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 661,
+        "shiftDate": "2025-07-10",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 662,
+        "shiftDate": "2025-07-11",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 663,
+        "shiftDate": "2025-07-12",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 664,
+        "shiftDate": "2025-07-13",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 665,
+        "shiftDate": "2025-07-14",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 666,
+        "shiftDate": "2025-07-15",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 667,
+        "shiftDate": "2025-07-16",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 668,
+        "shiftDate": "2025-07-17",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 669,
+        "shiftDate": "2025-07-18",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 670,
+        "shiftDate": "2025-07-19",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 671,
+        "shiftDate": "2025-07-20",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 672,
+        "shiftDate": "2025-07-21",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 673,
+        "shiftDate": "2025-07-22",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 674,
+        "shiftDate": "2025-07-23",
+        "nurseId": 22,
+        "shiftType": "E"
+    },
+    {
+        "schId": 675,
+        "shiftDate": "2025-07-24",
+        "nurseId": 22,
+        "shiftType": "N"
+    },
+    {
+        "schId": 676,
+        "shiftDate": "2025-07-25",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 677,
+        "shiftDate": "2025-07-26",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 678,
+        "shiftDate": "2025-07-27",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 679,
+        "shiftDate": "2025-07-28",
+        "nurseId": 22,
+        "shiftType": "D"
+    },
+    {
+        "schId": 680,
+        "shiftDate": "2025-07-29",
+        "nurseId": 22,
+        "shiftType": "N"
+    },
+    {
+        "schId": 681,
+        "shiftDate": "2025-07-30",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 682,
+        "shiftDate": "2025-07-31",
+        "nurseId": 22,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 683,
+        "shiftDate": "2025-07-01",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 684,
+        "shiftDate": "2025-07-02",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 685,
+        "shiftDate": "2025-07-03",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 686,
+        "shiftDate": "2025-07-04",
+        "nurseId": 23,
+        "shiftType": "E"
+    },
+    {
+        "schId": 687,
+        "shiftDate": "2025-07-05",
+        "nurseId": 23,
+        "shiftType": "E"
+    },
+    {
+        "schId": 688,
+        "shiftDate": "2025-07-06",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 689,
+        "shiftDate": "2025-07-07",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 690,
+        "shiftDate": "2025-07-08",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 691,
+        "shiftDate": "2025-07-09",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 692,
+        "shiftDate": "2025-07-10",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 693,
+        "shiftDate": "2025-07-11",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 694,
+        "shiftDate": "2025-07-12",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 695,
+        "shiftDate": "2025-07-13",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 696,
+        "shiftDate": "2025-07-14",
+        "nurseId": 23,
+        "shiftType": "E"
+    },
+    {
+        "schId": 697,
+        "shiftDate": "2025-07-15",
+        "nurseId": 23,
+        "shiftType": "E"
+    },
+    {
+        "schId": 698,
+        "shiftDate": "2025-07-16",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 699,
+        "shiftDate": "2025-07-17",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 700,
+        "shiftDate": "2025-07-18",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 701,
+        "shiftDate": "2025-07-19",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 702,
+        "shiftDate": "2025-07-20",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 703,
+        "shiftDate": "2025-07-21",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 704,
+        "shiftDate": "2025-07-22",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 705,
+        "shiftDate": "2025-07-23",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 706,
+        "shiftDate": "2025-07-24",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 707,
+        "shiftDate": "2025-07-25",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 708,
+        "shiftDate": "2025-07-26",
+        "nurseId": 23,
+        "shiftType": "E"
+    },
+    {
+        "schId": 709,
+        "shiftDate": "2025-07-27",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 710,
+        "shiftDate": "2025-07-28",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 711,
+        "shiftDate": "2025-07-29",
+        "nurseId": 23,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 712,
+        "shiftDate": "2025-07-30",
+        "nurseId": 23,
+        "shiftType": "D"
+    },
+    {
+        "schId": 713,
+        "shiftDate": "2025-07-31",
+        "nurseId": 23,
+        "shiftType": "N"
+    },
+    {
+        "schId": 714,
+        "shiftDate": "2025-07-01",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 715,
+        "shiftDate": "2025-07-02",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 716,
+        "shiftDate": "2025-07-03",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 717,
+        "shiftDate": "2025-07-04",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 718,
+        "shiftDate": "2025-07-05",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 719,
+        "shiftDate": "2025-07-06",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 720,
+        "shiftDate": "2025-07-07",
+        "nurseId": 24,
+        "shiftType": "N"
+    },
+    {
+        "schId": 721,
+        "shiftDate": "2025-07-08",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 722,
+        "shiftDate": "2025-07-09",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 723,
+        "shiftDate": "2025-07-10",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 724,
+        "shiftDate": "2025-07-11",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 725,
+        "shiftDate": "2025-07-12",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 726,
+        "shiftDate": "2025-07-13",
+        "nurseId": 24,
+        "shiftType": "N"
+    },
+    {
+        "schId": 727,
+        "shiftDate": "2025-07-14",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 728,
+        "shiftDate": "2025-07-15",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 729,
+        "shiftDate": "2025-07-16",
+        "nurseId": 24,
+        "shiftType": "N"
+    },
+    {
+        "schId": 730,
+        "shiftDate": "2025-07-17",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 731,
+        "shiftDate": "2025-07-18",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 732,
+        "shiftDate": "2025-07-19",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 733,
+        "shiftDate": "2025-07-20",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 734,
+        "shiftDate": "2025-07-21",
+        "nurseId": 24,
+        "shiftType": "N"
+    },
+    {
+        "schId": 735,
+        "shiftDate": "2025-07-22",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 736,
+        "shiftDate": "2025-07-23",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 737,
+        "shiftDate": "2025-07-24",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 738,
+        "shiftDate": "2025-07-25",
+        "nurseId": 24,
+        "shiftType": "E"
+    },
+    {
+        "schId": 739,
+        "shiftDate": "2025-07-26",
+        "nurseId": 24,
+        "shiftType": "N"
+    },
+    {
+        "schId": 740,
+        "shiftDate": "2025-07-27",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 741,
+        "shiftDate": "2025-07-28",
+        "nurseId": 24,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 742,
+        "shiftDate": "2025-07-29",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 743,
+        "shiftDate": "2025-07-30",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 744,
+        "shiftDate": "2025-07-31",
+        "nurseId": 24,
+        "shiftType": "D"
+    },
+    {
+        "schId": 745,
+        "shiftDate": "2025-07-01",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 746,
+        "shiftDate": "2025-07-02",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 747,
+        "shiftDate": "2025-07-03",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 748,
+        "shiftDate": "2025-07-04",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 749,
+        "shiftDate": "2025-07-05",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 750,
+        "shiftDate": "2025-07-06",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 751,
+        "shiftDate": "2025-07-07",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 752,
+        "shiftDate": "2025-07-08",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 753,
+        "shiftDate": "2025-07-09",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 754,
+        "shiftDate": "2025-07-10",
+        "nurseId": 25,
+        "shiftType": "N"
+    },
+    {
+        "schId": 755,
+        "shiftDate": "2025-07-11",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 756,
+        "shiftDate": "2025-07-12",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 757,
+        "shiftDate": "2025-07-13",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 758,
+        "shiftDate": "2025-07-14",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 759,
+        "shiftDate": "2025-07-15",
+        "nurseId": 25,
+        "shiftType": "N"
+    },
+    {
+        "schId": 760,
+        "shiftDate": "2025-07-16",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 761,
+        "shiftDate": "2025-07-17",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 762,
+        "shiftDate": "2025-07-18",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 763,
+        "shiftDate": "2025-07-19",
+        "nurseId": 25,
+        "shiftType": "N"
+    },
+    {
+        "schId": 764,
+        "shiftDate": "2025-07-20",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 765,
+        "shiftDate": "2025-07-21",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 766,
+        "shiftDate": "2025-07-22",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 767,
+        "shiftDate": "2025-07-23",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 768,
+        "shiftDate": "2025-07-24",
+        "nurseId": 25,
+        "shiftType": "D"
+    },
+    {
+        "schId": 769,
+        "shiftDate": "2025-07-25",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 770,
+        "shiftDate": "2025-07-26",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 771,
+        "shiftDate": "2025-07-27",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 772,
+        "shiftDate": "2025-07-28",
+        "nurseId": 25,
+        "shiftType": "E"
+    },
+    {
+        "schId": 773,
+        "shiftDate": "2025-07-29",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 774,
+        "shiftDate": "2025-07-30",
+        "nurseId": 25,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 775,
+        "shiftDate": "2025-07-31",
+        "nurseId": 25,
+        "shiftType": "N"
+    },
+    {
+        "schId": 776,
+        "shiftDate": "2025-07-01",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 777,
+        "shiftDate": "2025-07-02",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 778,
+        "shiftDate": "2025-07-03",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 779,
+        "shiftDate": "2025-07-04",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 780,
+        "shiftDate": "2025-07-05",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 781,
+        "shiftDate": "2025-07-06",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 782,
+        "shiftDate": "2025-07-07",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 783,
+        "shiftDate": "2025-07-08",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 784,
+        "shiftDate": "2025-07-09",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 785,
+        "shiftDate": "2025-07-10",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 786,
+        "shiftDate": "2025-07-11",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 787,
+        "shiftDate": "2025-07-12",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 788,
+        "shiftDate": "2025-07-13",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 789,
+        "shiftDate": "2025-07-14",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 790,
+        "shiftDate": "2025-07-15",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 791,
+        "shiftDate": "2025-07-16",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 792,
+        "shiftDate": "2025-07-17",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 793,
+        "shiftDate": "2025-07-18",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 794,
+        "shiftDate": "2025-07-19",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 795,
+        "shiftDate": "2025-07-20",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 796,
+        "shiftDate": "2025-07-21",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 797,
+        "shiftDate": "2025-07-22",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 798,
+        "shiftDate": "2025-07-23",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 799,
+        "shiftDate": "2025-07-24",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 800,
+        "shiftDate": "2025-07-25",
+        "nurseId": 26,
+        "shiftType": "D"
+    },
+    {
+        "schId": 801,
+        "shiftDate": "2025-07-26",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 802,
+        "shiftDate": "2025-07-27",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 803,
+        "shiftDate": "2025-07-28",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 804,
+        "shiftDate": "2025-07-29",
+        "nurseId": 26,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 805,
+        "shiftDate": "2025-07-30",
+        "nurseId": 26,
+        "shiftType": "E"
+    },
+    {
+        "schId": 806,
+        "shiftDate": "2025-07-31",
+        "nurseId": 26,
+        "shiftType": "N"
+    },
+    {
+        "schId": 807,
+        "shiftDate": "2025-07-01",
+        "nurseId": 27,
+        "shiftType": "D"
+    },
+    {
+        "schId": 808,
+        "shiftDate": "2025-07-02",
+        "nurseId": 27,
+        "shiftType": "D"
+    },
+    {
+        "schId": 809,
+        "shiftDate": "2025-07-03",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 810,
+        "shiftDate": "2025-07-04",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 811,
+        "shiftDate": "2025-07-05",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 812,
+        "shiftDate": "2025-07-06",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 813,
+        "shiftDate": "2025-07-07",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 814,
+        "shiftDate": "2025-07-08",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 815,
+        "shiftDate": "2025-07-09",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 816,
+        "shiftDate": "2025-07-10",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 817,
+        "shiftDate": "2025-07-11",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 818,
+        "shiftDate": "2025-07-12",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 819,
+        "shiftDate": "2025-07-13",
+        "nurseId": 27,
+        "shiftType": "D"
+    },
+    {
+        "schId": 820,
+        "shiftDate": "2025-07-14",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 821,
+        "shiftDate": "2025-07-15",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 822,
+        "shiftDate": "2025-07-16",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 823,
+        "shiftDate": "2025-07-17",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 824,
+        "shiftDate": "2025-07-18",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 825,
+        "shiftDate": "2025-07-19",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 826,
+        "shiftDate": "2025-07-20",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 827,
+        "shiftDate": "2025-07-21",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 828,
+        "shiftDate": "2025-07-22",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 829,
+        "shiftDate": "2025-07-23",
+        "nurseId": 27,
+        "shiftType": "D"
+    },
+    {
+        "schId": 830,
+        "shiftDate": "2025-07-24",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 831,
+        "shiftDate": "2025-07-25",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 832,
+        "shiftDate": "2025-07-26",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 833,
+        "shiftDate": "2025-07-27",
+        "nurseId": 27,
+        "shiftType": "D"
+    },
+    {
+        "schId": 834,
+        "shiftDate": "2025-07-28",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 835,
+        "shiftDate": "2025-07-29",
+        "nurseId": 27,
+        "shiftType": "E"
+    },
+    {
+        "schId": 836,
+        "shiftDate": "2025-07-30",
+        "nurseId": 27,
+        "shiftType": "N"
+    },
+    {
+        "schId": 837,
+        "shiftDate": "2025-07-31",
+        "nurseId": 27,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 838,
+        "shiftDate": "2025-07-01",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 839,
+        "shiftDate": "2025-07-02",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 840,
+        "shiftDate": "2025-07-03",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 841,
+        "shiftDate": "2025-07-04",
+        "nurseId": 28,
+        "shiftType": "N"
+    },
+    {
+        "schId": 842,
+        "shiftDate": "2025-07-05",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 843,
+        "shiftDate": "2025-07-06",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 844,
+        "shiftDate": "2025-07-07",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 845,
+        "shiftDate": "2025-07-08",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 846,
+        "shiftDate": "2025-07-09",
+        "nurseId": 28,
+        "shiftType": "N"
+    },
+    {
+        "schId": 847,
+        "shiftDate": "2025-07-10",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 848,
+        "shiftDate": "2025-07-11",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 849,
+        "shiftDate": "2025-07-12",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 850,
+        "shiftDate": "2025-07-13",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 851,
+        "shiftDate": "2025-07-14",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 852,
+        "shiftDate": "2025-07-15",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 853,
+        "shiftDate": "2025-07-16",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 854,
+        "shiftDate": "2025-07-17",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 855,
+        "shiftDate": "2025-07-18",
+        "nurseId": 28,
+        "shiftType": "N"
+    },
+    {
+        "schId": 856,
+        "shiftDate": "2025-07-19",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 857,
+        "shiftDate": "2025-07-20",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 858,
+        "shiftDate": "2025-07-21",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 859,
+        "shiftDate": "2025-07-22",
+        "nurseId": 28,
+        "shiftType": "N"
+    },
+    {
+        "schId": 860,
+        "shiftDate": "2025-07-23",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 861,
+        "shiftDate": "2025-07-24",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 862,
+        "shiftDate": "2025-07-25",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 863,
+        "shiftDate": "2025-07-26",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 864,
+        "shiftDate": "2025-07-27",
+        "nurseId": 28,
+        "shiftType": "N"
+    },
+    {
+        "schId": 865,
+        "shiftDate": "2025-07-28",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 866,
+        "shiftDate": "2025-07-29",
+        "nurseId": 28,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 867,
+        "shiftDate": "2025-07-30",
+        "nurseId": 28,
+        "shiftType": "D"
+    },
+    {
+        "schId": 868,
+        "shiftDate": "2025-07-31",
+        "nurseId": 28,
+        "shiftType": "E"
+    },
+    {
+        "schId": 869,
+        "shiftDate": "2025-07-01",
+        "nurseId": 29,
+        "shiftType": "D"
+    },
+    {
+        "schId": 870,
+        "shiftDate": "2025-07-02",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 871,
+        "shiftDate": "2025-07-03",
+        "nurseId": 29,
+        "shiftType": "D"
+    },
+    {
+        "schId": 872,
+        "shiftDate": "2025-07-04",
+        "nurseId": 29,
+        "shiftType": "N"
+    },
+    {
+        "schId": 873,
+        "shiftDate": "2025-07-05",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 874,
+        "shiftDate": "2025-07-06",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 875,
+        "shiftDate": "2025-07-07",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 876,
+        "shiftDate": "2025-07-08",
+        "nurseId": 29,
+        "shiftType": "N"
+    },
+    {
+        "schId": 877,
+        "shiftDate": "2025-07-09",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 878,
+        "shiftDate": "2025-07-10",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 879,
+        "shiftDate": "2025-07-11",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 880,
+        "shiftDate": "2025-07-12",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 881,
+        "shiftDate": "2025-07-13",
+        "nurseId": 29,
+        "shiftType": "N"
+    },
+    {
+        "schId": 882,
+        "shiftDate": "2025-07-14",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 883,
+        "shiftDate": "2025-07-15",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 884,
+        "shiftDate": "2025-07-16",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 885,
+        "shiftDate": "2025-07-17",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 886,
+        "shiftDate": "2025-07-18",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 887,
+        "shiftDate": "2025-07-19",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 888,
+        "shiftDate": "2025-07-20",
+        "nurseId": 29,
+        "shiftType": "D"
+    },
+    {
+        "schId": 889,
+        "shiftDate": "2025-07-21",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 890,
+        "shiftDate": "2025-07-22",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 891,
+        "shiftDate": "2025-07-23",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 892,
+        "shiftDate": "2025-07-24",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 893,
+        "shiftDate": "2025-07-25",
+        "nurseId": 29,
+        "shiftType": "N"
+    },
+    {
+        "schId": 894,
+        "shiftDate": "2025-07-26",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 895,
+        "shiftDate": "2025-07-27",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 896,
+        "shiftDate": "2025-07-28",
+        "nurseId": 29,
+        "shiftType": "D"
+    },
+    {
+        "schId": 897,
+        "shiftDate": "2025-07-29",
+        "nurseId": 29,
+        "shiftType": "D"
+    },
+    {
+        "schId": 898,
+        "shiftDate": "2025-07-30",
+        "nurseId": 29,
+        "shiftType": "E"
+    },
+    {
+        "schId": 899,
+        "shiftDate": "2025-07-31",
+        "nurseId": 29,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 900,
+        "shiftDate": "2025-07-01",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 901,
+        "shiftDate": "2025-07-02",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 902,
+        "shiftDate": "2025-07-03",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 903,
+        "shiftDate": "2025-07-04",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 904,
+        "shiftDate": "2025-07-05",
+        "nurseId": 30,
+        "shiftType": "N"
+    },
+    {
+        "schId": 905,
+        "shiftDate": "2025-07-06",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 906,
+        "shiftDate": "2025-07-07",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 907,
+        "shiftDate": "2025-07-08",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 908,
+        "shiftDate": "2025-07-09",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 909,
+        "shiftDate": "2025-07-10",
+        "nurseId": 30,
+        "shiftType": "N"
+    },
+    {
+        "schId": 910,
+        "shiftDate": "2025-07-11",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 911,
+        "shiftDate": "2025-07-12",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 912,
+        "shiftDate": "2025-07-13",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 913,
+        "shiftDate": "2025-07-14",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 914,
+        "shiftDate": "2025-07-15",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 915,
+        "shiftDate": "2025-07-16",
+        "nurseId": 30,
+        "shiftType": "N"
+    },
+    {
+        "schId": 916,
+        "shiftDate": "2025-07-17",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 917,
+        "shiftDate": "2025-07-18",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 918,
+        "shiftDate": "2025-07-19",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 919,
+        "shiftDate": "2025-07-20",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 920,
+        "shiftDate": "2025-07-21",
+        "nurseId": 30,
+        "shiftType": "E"
+    },
+    {
+        "schId": 921,
+        "shiftDate": "2025-07-22",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 922,
+        "shiftDate": "2025-07-23",
+        "nurseId": 30,
+        "shiftType": "N"
+    },
+    {
+        "schId": 923,
+        "shiftDate": "2025-07-24",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 924,
+        "shiftDate": "2025-07-25",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 925,
+        "shiftDate": "2025-07-26",
+        "nurseId": 30,
+        "shiftType": "N"
+    },
+    {
+        "schId": 926,
+        "shiftDate": "2025-07-27",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 927,
+        "shiftDate": "2025-07-28",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 928,
+        "shiftDate": "2025-07-29",
+        "nurseId": 30,
+        "shiftType": "D"
+    },
+    {
+        "schId": 929,
+        "shiftDate": "2025-07-30",
+        "nurseId": 30,
+        "shiftType": "Off"
+    },
+    {
+        "schId": 930,
+        "shiftDate": "2025-07-31",
+        "nurseId": 30,
+        "shiftType": "E"
+    }
+]
