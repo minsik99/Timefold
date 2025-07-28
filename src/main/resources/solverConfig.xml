@@ -14,6 +14,6 @@
 
 	<termination>
 		<!-- 종료 조건 설정 (최대 실행 시간) -->
-		<secondsSpentLimit>60</secondsSpentLimit>
+		<secondsSpentLimit>30</secondsSpentLimit>
 	</termination>
 </solver>

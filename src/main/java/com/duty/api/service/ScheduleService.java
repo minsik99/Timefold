@@ -25,6 +25,13 @@ public class ScheduleService {
 	private final Solver<Schedule> solver;
 
 	public List<ScheduleDTO> generateSchedule(DutyRequestDTO dutyRequestDTO) {
+		// 메모리 측정 시작
+		Runtime runtime = Runtime.getRuntime();
+		runtime.gc(); // 가비지 컬렉션 먼저 실행
+
+		long beforeMemory = runtime.totalMemory() - runtime.freeMemory();
+		long startTime = System.currentTimeMillis();
+
 		List<NurseRequest> nurseRequests = dutyRequestDTO.getNurseList();
 		LocalDate startDate = dutyRequestDTO.getStartDate();
 		LocalDate endDate = dutyRequestDTO.getEndDate();
@@ -70,6 +77,14 @@ public class ScheduleService {
 
 		// Solver로 최적화
 		Schedule solvedSchedule = solver.solve(schedule);
+
+		// 메모리 측정 종료
+		long afterMemory = runtime.totalMemory() - runtime.freeMemory();
+		long endTime = System.currentTimeMillis();
+
+		System.out.println("사용 메모리: " + (afterMemory - beforeMemory) / (1024 * 1024) + " MB");
+		System.out.println("실행 시간: " + (endTime - startTime) + " ms");
+		System.out.println("최종 스코어: " + solvedSchedule.getScore());
 
 		// 결과 변환 및 후처리: Off 배정
 		return solvedSchedule.getShiftAssignments().stream().map(assign -> {
